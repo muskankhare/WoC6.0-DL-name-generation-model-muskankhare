@@ -74,24 +74,3 @@ Create a streamlit page allowing users to upload an image, and then select a sty
 Experiment with different neural network architectures for feature extraction.
 
 Visualize the training process using TensorBoard.
-
-
-
-
-
-
-
-Project Setup Guidelines and Installation Instructions:
-It is advised to use a cloud environment like Google Colab or Kaggle to avoid setting up the environment. For a local setup:
-Python Installation: Python Official Site
-PyTorch Installation: Follow the instructions on the PyTorch website
-IDE Setup: Recommendations include Jupyter Notebook,or Visual Studio Code.
-
-Mentors:
-Mihir Agarwal - agarwalmihir@iitgn.ac.in
-Hrriday Ruparel - hrriday.ruparel@iitgn.ac.in
-Kishan Ved - kishan.ved@iitgn.ac.in
-Shreyans Jain - shreyans.jain@iitgn.ac.in
-Srikar Padaliya - +91 6358820530, 202101095@daiict.ac.in
-Takshay Makadia - +91 9265589213 202101414@daiict.ac.in
-
